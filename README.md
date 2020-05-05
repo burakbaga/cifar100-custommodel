@@ -18,7 +18,7 @@ History den okunan bilgiler doğrultusunda grafik çizdirmek için plot_graph ad
 
 1.1 Grafiklerin Yorumlanması 
 
-(https://github.com/burakbaga/cifar100-custommodel/blob/master/grafikler/1.K%C4%B1s%C4%B1m%20(Basit%20Model)_accuracy.png)
+![Şekil 8 1.Model Train ve Validation Accuracy](https://github.com/burakbaga/cifar100-custommodel/blob/master/grafikler/1.K%C4%B1s%C4%B1m%20(Basit%20Model)_accuracy.png)
 
 Yukarı da ki grafikte görüldüğü üzere validation accuracy 6. Epochtan sonra neredeyse sabit kalmıştır. Ancak train accuracy yükselmeye devam etmiştir. 6 epochtan sonra öğrenme kesilmiştir. Model ezberlemeye başlamıştır. Bu ezberleme durumuna overfit deriz. Modelin elimizde bulanan veriye ve sınıf sayısına göre oldukça karmaşık olması bu sonucu almamızda etkili olmuştur. Eğitim bir süre daha devam ettirilmesi durumda model 1.0 başarı göstermeye devam edecek ve zaman içerisinde validation accuracy düşmeye başlayabilir
 
