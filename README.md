@@ -1,5 +1,5 @@
 
-![](RackMultipart20200505-4-1jmeo6k_html_9d4fcb5f96283c84.png)
+![](https://github.com/burakbaga/cifar100-custommodel/blob/master/classes.png)
 
 _Şekil 1 Sınıflar_
 
