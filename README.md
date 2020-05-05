@@ -1,8 +1,7 @@
-
 ![](https://github.com/burakbaga/cifar100-custommodel/blob/master/classes.png)
 Proje kapsamında cifar100 veri setinde bulunan 6 sınıf ile bir derin sinir ağı tasarlayıp bu ağı eğitmemiz isteniyor. Cifar verilerinden istenilen sınıfları alabilmek için cifar2png kütüphanesini kullandım. (https://github.com/knjcode/cifar2png)
 
-### 1.Augmentation ve Dropout Kullanılmayan Model İle Eğitim
+# 1.Augmentation ve Dropout Kullanılmayan Model İle Eğitim
 
 Elimizde bulunan verileri tasarladığımız bir Convolutional Neural Network (Evrişimsel Sinir Ağı) ile eğiteceğiz. Burada tasarladığımız modelde dropout katmanları bulunmayacak ve elimizde bulanan veri üzerinde augmentation işlemleri gerçekleştirilmeyecektir.
 
